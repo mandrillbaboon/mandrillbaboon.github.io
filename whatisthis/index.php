@@ -1,1 +1,51 @@
-asdfggghg
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      margin-top: 100px;
+    }
+    button {
+      font-size: 20px;
+      padding: 10px 20px;
+    }
+    #count {
+      font-size: 24px;
+      margin-top: 20px;
+    }
+</style>
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B8EMXBYM02"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B8EMXBYM02');
+</script>
+</head>
+<body>
+
+    <p>Attention! You have fallen victim to a successful phishing attempt!</p>
+
+    <p>Information theft, malicious software, and denial-of-service (DoS) attacks were the most common causes of data breaches in 2021.</p>
+
+    <p>The 2021 Cisco cybersecurity trends report indicates that phishing accounts for around 90% of data breaches, and at least one person clicked a phishing link in about 86% of the organizations surveyed.</p>
+
+    <p>Internet security guidelines:</p>
+
+    <p>Do not open messages or attachments received by email from unknown senders.</p>
+    <p>Do not click any links included in messages from unknown sources.</p>
+    <p>Never send sensitive information such as passwords and logins via text messages or email.</p>
+    
+    <p>Activities conducted as part of an educational campaign.</p>
+    <p>Number of people that clicked on this link:</p>
+    <script type="text/javascript" src="https://counter.websiteout.com/js/7/3/0/0"></script>
+
+</body>
+</html>
