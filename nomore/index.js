@@ -8,8 +8,7 @@ const katakana = 'アァカサタナハマヤャラルグズブヅプエェケ�
 const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
 const nums = '0123456789';
 const binary = '01';
-const ola = 'OLA';
-const alphabet = binary + ola;
+const alphabet = nums + latin + katakana;
 
 const fontSize = 16;
 const columns = canvas.width/fontSize;
